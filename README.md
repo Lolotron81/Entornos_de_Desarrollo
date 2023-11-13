@@ -1,1 +1,2 @@
-# Entornos_de_Desarrollo
+# Ejercicios y Teoría de la asignatura de Entornos de Desarrollo del módulo de Desarrollo de Aplicaciones Multiplataforma 
+### La autoría de toda la documentación pertenece al profesor Enrique Martínez.
